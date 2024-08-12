@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "name": "Story Book",
+        "title": "Book of your imagination and fantasies",
+        "price": 0,
+        "category": "Free",
+        "image": "https://www.freepik.com/free-photo/open-flying-old-books_1007982.htm"
+    },
+    {
+        "id": 2,
+        "name": "Funny Book",
+        "title": "Book of your imagination and fantasies",
+        "price": 50,
+        "category": "Laughter is cure",
+        "image": "https://www.freepik.com/free-photo/open-flying-old-books_1007982.htm"
+    },
+    {
+        "id": 3,
+        "name": "History Book",
+        "title": "Book of your imagination and fantasies",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-photo/pages-open-book_23-2147690479.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Finance Book",
+        "title": "Book of your imagination and fantasies",
+        "price": 22,
+        "category": "Growing Rich",
+        "image": "https://img.freepik.com/free-photo/pages-open-book_23-2147690479.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Food Book",
+        "title": "Book of your imagination and fantasies",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-photo/pages-open-book_23-2147690479.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Love Book",
+        "title": "Book of your imagination and fantasies",
+        "price": 29,
+        "category": "Love",
+        "image": "https://img.freepik.com/free-photo/pages-open-book_23-2147690479.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Music Book",
+        "title": "Book of your imagination and fantasies",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-photo/pages-open-book_23-2147690479.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Horror Book",
+        "title": "Book of your imagination and fantasies",
+        "price": 12,
+        "category": "Fear",
+        "image": "https://img.freepik.com/free-photo/pages-open-book_23-2147690479.jpg"
+    },
+    {
+        "id": 9,
+        "name": "Technology Book",
+        "title": "Book of your imagination and fantasies",
+        "price": 50,
+        "category": "Tech",
+        "image": "https://img.freepik.com/free-photo/pages-open-book_23-2147690479.jpg"
+    },
+    {
+        "id": 10,
+        "name": "Engineering Book",
+        "title": "Book of your imagination and fantasies",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-photo/pages-open-book_23-2147690479.jpg"
+    }
+]
